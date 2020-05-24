@@ -1,0 +1,44 @@
+
+.sort.btn.btn-light{
+    border-color: darkgrey;
+    width: 12em;
+}
+
+.form-control.mr-sm-2.w-auto{
+    width: 15rem;
+}
+
+.badge.badge-pill.badge-warning.w-25{
+    height: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    justify-content: center;
+    padding: 2px 5px;
+}
+
+.addProduct{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 10px;
+    font-size: xx-large;
+}
+
+.addProduct:hover{
+    background-color: #4CAF50;
+    color: white;
+    transform: scale(1.1, 1.1);
+}
+
+
+/*
+
+.navbarButtonFirstDropDown.btn.btn-secondary.dropdown-toggle{
+    position: absolute;
+
+}
+
+.navbarButtonSecondDropDown.btn.btn-secondary.dropdown-toggle{
+    position: absolute;
+
+}*/

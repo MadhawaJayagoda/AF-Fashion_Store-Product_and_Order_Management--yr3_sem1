@@ -1,0 +1,19 @@
+{
+  "name": "inventorycontrol_ordermanagement",
+  "version": "1.0.0",
+  "description": "AF ( Yr3_Sem1 ) - Online Fashion Store - NodeJS and Express - Backend Development",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Jayagoda N.M.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "nodemon": "^2.0.3"
+  }
+}

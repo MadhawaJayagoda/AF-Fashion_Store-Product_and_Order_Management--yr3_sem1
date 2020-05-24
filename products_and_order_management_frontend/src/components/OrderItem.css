@@ -1,0 +1,23 @@
+.AccordionItem{
+    position: relative;
+}
+
+.editIcon.text-success{
+    position: absolute;
+    right: 80px;
+    cursor: pointer;
+}
+
+.deleteIcon.text-danger{
+    position: absolute;
+    right: 50px;
+}
+
+p input{
+    border: none;
+    background-color: transparent;
+}
+
+.editIcon.text-success{
+    border-radius: 5px;
+}
